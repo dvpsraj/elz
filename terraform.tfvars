@@ -14,9 +14,11 @@ Parent2_Child2_Mgmt = "NSP"
 Parent1_Child1_subscription_name = "sub-iga-log"
 Parent1_Child1_subscription_id = "/subscriptions/cae48dfb-969c-4f68-85fe-5ca149e5004f" 
 
-Parent2_Child1_subscription_name = ""
+#Parent2_Child1_subscription_name = ""
 # Parent2_Child1_subscription_id = "/subscriptions/cae48dfb-969c-4f68-85fe-5ca149e5004f"
 
-Parent2_Child2_subscription_id = ""
+#Parent2_Child2_subscription_id = ""
 # Parent2_Child2_subscription_id = "/subscriptions/cae48dfb-969c-4f68-85fe-5ca149e5004f"
 #------------------------------------------#
+
+location = "northeurope"
