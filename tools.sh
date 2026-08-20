@@ -1,4 +1,3 @@
-cat << 'EOF' > ~/check_tools.sh
 #!/bin/bash
 echo "=================================================="
 echo "SECURITY TOOLS VERSION CHECK"
@@ -76,5 +75,3 @@ snap list storage-explorer 2>/dev/null || echo "NOT FOUND"
 echo -e "\n=================================================="
 echo "CHECK COMPLETE"
 echo "=================================================="
-EOF
-chmod +x ~/check_tools.sh
